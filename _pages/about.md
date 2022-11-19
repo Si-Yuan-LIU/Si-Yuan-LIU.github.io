@@ -21,11 +21,11 @@ Research Interest
 * Stochastic systems
 * Multi-agent systems
 
-Contact
+## Contact
 ======
-### Email
+#### Email
 sy(dot)liu(at)tum(dot)de 
-### Address
+#### Address
 <address>
   Malvinas Väg 10<br> 114 28 Stockholm<br /> Sweden
 </address>
