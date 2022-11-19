@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siyuan Liu (刘思源) / Site Title"
+title                    : "Siyuan Liu (刘思源) / Homepage"
 title_separator          : "-"
 name                     : &name "Siyuan Liu (刘思源)"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Siyuan Liu (刘思源)"
   avatar           : "Photo_Liu.jpg"
-  bio              : "Postdoc Researcher"
+  bio              : "Postdoc Researcher at KTH"
   location         : "Stockholm, Sweden"
   employer         :
   pubmed           :  
