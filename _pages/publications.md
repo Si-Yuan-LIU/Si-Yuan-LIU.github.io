@@ -32,9 +32,9 @@ author_profile: true
 
 ## Conference Papers
 
-1. **S. Liu**, A. Saoud, P. Jagtap, D. V. Dimarogonas, and M. Zamani. Compositional synthesis of signal temporal logic tasks via assume-guarantee contracts, _61th Conference on Decision and Control (CDC)_, to appear, December 2022.
+1. **S. Liu**, A. Saoud, P. Jagtap, D. V. Dimarogonas, and M. Zamani. Compositional synthesis of signal temporal logic tasks via assume-guarantee contracts, _61th IEEE Conference on Decision and Control (CDC)_, to appear, December 2022.
 2. S. Tasdighi Kalat, **S. Liu**, and M. Zamani. Verification of approximate infinite-step opacity using barrier certificates. _European Control Conference (ECC)_, to appear, 2022.
 3. **S. Liu**, A. Swikir, and M. Zamani. Compositional verification of initial-state opacity for switched systems. _59th IEEE Conference on Decision and Control (CDC)_, pp. 2146-2151, December 2020.
-4. **S. Liu**, X. Yin, and M. Zamani. On a notion of approximate opacity for discrete-time stochastic control systems. _American Control Conference (ACC)_, pp. 5413-5418, July 2020. (PDF)
+4. **S. Liu**, X. Yin, and M. Zamani. On a notion of approximate opacity for discrete-time stochastic control systems. _American Control Conference (ACC)_, pp. 5413-5418, July 2020.  
 5. **S. Liu** and M. Zamani. Compositional synthesis of almost maximally permissible safety controllers. _American Control Conference (ACC)_, pp. 1678-1683, July 2019.
 6. **S. Liu**, Z. Liang, et al. Predictor-corrector guidance for entry with terminal altitude constraint. _IEEE Chinese Control Conference (CCC)_, pp. 5557-5562, July 2016.
