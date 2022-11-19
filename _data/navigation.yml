@@ -6,14 +6,14 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #  url: /teaching/    
     
   - title: "Academic Services"
     url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
+  - title: "News"
+    url: /news/
     
   - title: "Travel"
     url: /travel/
