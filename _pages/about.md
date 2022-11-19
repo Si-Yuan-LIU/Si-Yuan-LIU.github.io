@@ -20,3 +20,12 @@ Research Interest
 * Nonlinear control systems
 * Stochastic systems
 * Multi-agent systems
+
+Contact
+======
+Email: sy(dot)liu(at)tum(dot)de
+
+Malvinas Väg 10
+
+114 28 Stockholm
+
