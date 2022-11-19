@@ -23,7 +23,9 @@ Research Interest
 
 Contact
 ======
-<p>Email: sy(dot)liu(at)tum(dot)de<br>
+### Email
+sy(dot)liu(at)tum(dot)de 
+### Address
 <address>
   Malvinas Väg 10<br> 114 28 Stockholm<br /> Sweden
 </address>
