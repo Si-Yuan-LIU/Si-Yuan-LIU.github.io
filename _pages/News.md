@@ -16,6 +16,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-%## Recent News
 
 * **September 2022**: I successfully defended my PhD.
