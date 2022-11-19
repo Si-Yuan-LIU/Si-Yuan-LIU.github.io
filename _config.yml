@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Siyuan Liu (刘思源)"
-  avatar           : "Photo_Liu.jpeg"
+  avatar           : "Photo_Liu.jpg"
   bio              : "Postdoc Researcher"
   location         : "Stockholm, Sweden"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :  
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/siyuan-liu-44b939175"
+  linkedin         : "siyuan-liu-44b939175"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
