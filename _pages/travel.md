@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-| Dates    |          Event                            | Place    |  
-| -------- |  ----------------------------------       |----------|  
+| Dates    |          Event                  | Place    |  
+| -------- |  -------------------------------|----------|  
 | December 6-9, 2022 |  IEEE Conference on Decision and Control | Cancun, Mexico|
 | July 12-15, 2022   |  European Control Conference             | London, UK    | 
 | May-July, 2021     |  Research Stay at KTH Royal Institute of Technology| Stockholm, Sweden|
