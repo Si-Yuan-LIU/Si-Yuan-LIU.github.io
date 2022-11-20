@@ -35,3 +35,8 @@ author_profile: true
 * European Control Conference (ECC) 
 * IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)
 * IEEE Chinese Control Conference (CCC)
+
+## Professional Memberships
+
+* IEEE CSS Technical Committee on Hybrid Systems
+* IEEE Control Systems Society
