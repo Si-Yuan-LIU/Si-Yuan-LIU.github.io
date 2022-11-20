@@ -37,4 +37,4 @@ author_profile: true
 3. **S. Liu**, A. Swikir, and M. Zamani. [Compositional verification of initial-state opacity for switched systems](https://ieeexplore.ieee.org/document/9304322). _59th IEEE Conference on Decision and Control (CDC)_, pp. 2146-2151, December 2020.
 4. **S. Liu**, X. Yin, and M. Zamani. [On a notion of approximate opacity for discrete-time stochastic control systems](https://ieeexplore.ieee.org/document/9147235). _American Control Conference (ACC)_, pp. 5413-5418, July 2020.  
 5. **S. Liu** and M. Zamani. [Compositional synthesis of almost maximally permissible safety controllers](https://ieeexplore.ieee.org/document/8815361). _American Control Conference (ACC)_, pp. 1678-1683, July 2019.
-<! 6. **S. Liu**, Z. Liang, et al. Predictor-corrector guidance for entry with terminal altitude constraint. _IEEE Chinese Control Conference (CCC)_, pp. 5557-5562, July 2016. 
+6. **S. Liu**, Z. Liang, et al. [Predictor-corrector guidance for entry with terminal altitude constraint](https://ieeexplore.ieee.org/document/7554222). _IEEE Chinese Control Conference (CCC)_, pp. 5557-5562, July 2016. 
