@@ -32,6 +32,4 @@ Sweden<br />
 
 
 
-<a href='https://clustrmaps.com/site/1brh0'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=1RHlJ4Vea4-7SqHjsZa5MvWcuNZ7AoDQaqGUBcQ2yIw&ct=ffffff&co=2d78ad'/></a>
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=m&d=1RHlJ4Vea4-7SqHjsZa5MvWcuNZ7AoDQaqGUBcQ2yIw'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=m&d=1RHlJ4Vea4-7SqHjsZa5MvWcuNZ7AoDQaqGUBcQ2yIw'></script>
