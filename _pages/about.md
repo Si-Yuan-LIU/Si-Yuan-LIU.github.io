@@ -31,5 +31,4 @@ _114 28 Stockholm_<br>
 Sweden<br />
 
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=m&d=1RHlJ4Vea4-7SqHjsZa5MvWcuNZ7AoDQaqGUBcQ2yIw'></script>
+<a href='https://clustrmaps.com/site/1brh0'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=150&t=m&d=1RHlJ4Vea4-7SqHjsZa5MvWcuNZ7AoDQaqGUBcQ2yIw&co=2d78ad&ct=ffffff'/></a>
