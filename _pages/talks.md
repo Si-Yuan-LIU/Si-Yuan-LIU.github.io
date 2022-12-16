@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* **December 2022**: “Compositional synthesis of signal temporal logic tasks via assume-guarantee contracts” in 61st Conference on Decision and Control (CDC). \
+* **December 2022**: “Compositional synthesis of signal temporal logic tasks via assume-guarantee contracts” in 61st Conference on Decision and Control (CDC).
 * **March 2022**: “Compositional synthesis of opacity for large-scale cyber-physical systems” at Indian Institute of Science (IISc).
 * **June 2021**: “Compositional reasoning on interconnected systems via assume-guarantee contracts” at KTH Royal Institute of Technology.
 * **May 2021**: “Verification of approximate opacity via barrier certificates” in 2021 American Control Conference (ACC).
