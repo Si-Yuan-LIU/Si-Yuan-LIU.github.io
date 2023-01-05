@@ -15,7 +15,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+* **December 2022**: I gave a guest lecture for the graduate course _Control Principles for Engineered Systems_ at Eindhoven University of Technology (TU/e).
 * **October 2022**: I will be joining the Division of Decision and Control Systems at KTH Royal Institute of Technology as a Postdoc Researcher in January 2023.
 * **September 2022**: I successfully defended my PhD.
 * **May 2022**: I received a two-year Postdoc Fellowship suported by Digital Futures in Sweden.
