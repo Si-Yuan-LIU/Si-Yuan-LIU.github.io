@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Biography"
+layout: splash
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -49,3 +50,8 @@ Sweden<br />
 
 
 <a href='https://clustrmaps.com/site/1brh0'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=150&t=m&d=1RHlJ4Vea4-7SqHjsZa5MvWcuNZ7AoDQaqGUBcQ2yIw&co=2d78ad&ct=ffffff'/></a>
+
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
