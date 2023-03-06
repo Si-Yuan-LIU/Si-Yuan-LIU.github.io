@@ -32,7 +32,8 @@ author_profile: true
 
 * IEEE Conference on Decision and Control (CDC) 
 * American Control Conference (ACC)
-* European Control Conference (ECC) 
+* European Control Conference (ECC)
+* IEEE Conference on Control Technology and Applications (CCTA)
 * IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)
 * IEEE Chinese Control Conference (CCC)
 
@@ -40,3 +41,7 @@ author_profile: true
 
 * IEEE CSS Technical Committee on Hybrid Systems
 * IEEE Control Systems Society
+
+## Teaching
+
+* Spring 2023, EL2450: [Hybrid and embedded control systems](https://www.kth.se/student/kurser/kurs/EL2450?l=en), graduate course at KTH 
