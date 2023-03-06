@@ -33,7 +33,7 @@ author_profile: true
 
 ## Conference Papers
 
-1. B. Zhong, **S. Liu**, M. Caccamo, and M. Zamani. [Secure-by-Construction Controller Synthesis via Control Barrier Functions]. _22nd IFAC World Congress_, to appear, July 2023.
+1. B. Zhong, **S. Liu**, M. Caccamo, and M. Zamani. Secure-by-Construction Controller Synthesis via Control Barrier Functions. _22nd IFAC World Congress_, to appear, July 2023.
 2. **S. Liu**, A. Saoud, P. Jagtap, D. V. Dimarogonas, and M. Zamani. [Compositional synthesis of signal temporal logic tasks via assume-guarantee contracts](https://ieeexplore.ieee.org/abstract/document/9992715). _61st IEEE Conference on Decision and Control (CDC)_, pp. 2184--2189, December 2022.
 3. S. Tasdighi Kalat, **S. Liu**, and M. Zamani. [Verification of approximate infinite-step opacity using barrier certificates](https://ieeexplore.ieee.org/document/9838153). _European Control Conference (ECC)_, pp. 175--180, July 2022.
 4. **S. Liu**, A. Swikir, and M. Zamani. [Compositional verification of initial-state opacity for switched systems](https://ieeexplore.ieee.org/document/9304322). _59th IEEE Conference on Decision and Control (CDC)_, pp. 2146--2151, December 2020.
