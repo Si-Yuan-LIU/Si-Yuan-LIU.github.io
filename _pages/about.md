@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Siyuan Liu is a Postdoctoral researcher at the [Division of Decision and Control Systems](https://www.kth.se/is/dcs/division-of-decision-and-control-systems-1.788078) in the KTH Royal Institute of Technology, Stockholm, Sweden. Before joining KTH, she was a research assistant in the [Hybrid Control Systems (HyConSys)](https://www.hyconsys.com/) Lab at Ludwig-Maximilian University of Munich, Germany. 
+Siyuan Liu is a Digital Futures Postdoc Fellow at the [Division of Decision and Control Systems](https://www.kth.se/is/dcs/division-of-decision-and-control-systems-1.788078) in the KTH Royal Institute of Technology, Stockholm, Sweden. Before joining KTH, she was a research assistant in the [Hybrid Control Systems (HyConSys)](https://www.hyconsys.com/) Lab at Ludwig-Maximilian University of Munich, Germany. 
 She received her Ph.D. degree (in Electrical and Computer Engineering, 2022) from Technical University of Munich (TUM), Germany, her M.E. degree (in Control Engineering, 2017) and B.E. degree (in Automation Science, 2014)  both from Beihang University, China. In 2021, she was a visiting researcher at KTH Royal Institute of Technology, Stockholm, Sweden. 
 
 Research Interest
@@ -23,7 +23,7 @@ Research Interest
 Contact
 ======
  
-Email: sy.liu@tum.de<br>
+Email: siyliu@kth.se<br>
 Address: <br>
 _Malvinas Väg 10_<br> 
 _114 28 Stockholm_<br> 
