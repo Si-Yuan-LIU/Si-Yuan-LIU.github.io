@@ -10,6 +10,7 @@ author_profile: true
 * **June 2023**: Online talk on “Secure-by-construction synthesis of large-scale cyber-physical systems” at Beijing Institute of Technology (BIT). 
 * **December 2022**: “Formal methods in control” at Eindhoven University of Technology (TU/e).
 * **December 2022**: “Compositional synthesis of signal temporal logic tasks via assume-guarantee contracts” in 61st Conference on Decision and Control (CDC).
+* **July 2022**: “Verification of approximate infinite-step opacity using barrier certificates” in European Control Conference (ECC).
 * **March 2022**: “Compositional synthesis of opacity for large-scale cyber-physical systems” at Indian Institute of Science (IISc).
 * **June 2021**: “Compositional reasoning on interconnected systems via assume-guarantee contracts” at KTH Royal Institute of Technology.
 * **May 2021**: “Verification of approximate opacity via barrier certificates” in 2021 American Control Conference (ACC).

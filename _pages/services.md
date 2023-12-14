@@ -16,6 +16,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## Teaching
+* Spring 2024, EL2450: [Hybrid and embedded control systems](https://www.kth.se/student/kurser/kurs/EL2450?l=en), graduate course at KTH 
+* Spring 2023, EL2450: [Hybrid and embedded control systems](https://www.kth.se/student/kurser/kurs/EL2450?l=en), graduate course at KTH 
+
+
+
 ## Journal Reviewer
 
 * IEEE Transactions on Automatic Control (TAC)
@@ -35,13 +41,10 @@ author_profile: true
 * European Control Conference (ECC)
 * IEEE Conference on Control Technology and Applications (CCTA)
 * IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 * IEEE Chinese Control Conference (CCC)
 
 ## Professional Memberships
 
 * IEEE CSS Technical Committee on Hybrid Systems
 * IEEE Control Systems Society
-
-## Teaching
-
-* Spring 2023, EL2450: [Hybrid and embedded control systems](https://www.kth.se/student/kurser/kurs/EL2450?l=en), graduate course at KTH 
