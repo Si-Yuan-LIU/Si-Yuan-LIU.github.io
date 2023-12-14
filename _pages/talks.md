@@ -4,6 +4,10 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+* **December 2023**: Online talk on “Distributed analysis and control of large scale cyper physical systems“ at the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen).
+* **September 2023**: “Distributed synthesis of STL for multi-agent systems via assume-guarantee contracts“, part of the Contract-Based Design Workshop at KTH Royal Institute of Technology.
+* **June 2023**: “Secure-by-construction synthesis of cyber-physical systems” at University of Science and Technology Beijing (USTB). 
+* **June 2023**: Online talk on “Secure-by-construction synthesis of large-scale cyber-physical systems” at Beijing Institute of Technology (BIT). 
 * **December 2022**: “Formal methods in control” at Eindhoven University of Technology (TU/e).
 * **December 2022**: “Compositional synthesis of signal temporal logic tasks via assume-guarantee contracts” in 61st Conference on Decision and Control (CDC).
 * **March 2022**: “Compositional synthesis of opacity for large-scale cyber-physical systems” at Indian Institute of Science (IISc).

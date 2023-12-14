@@ -23,7 +23,7 @@ author_profile: true
 
 ## Journal Papers
 
-1. J. Hou, **S. Liu**, X. Yin, and M. Zamani. [Abstraction-based verification of approximate pre-opacity for control systems](https://ieeexplore.ieee.org/document/9993745?source=authoralert). _IEEE Control Systems Letters_, vol. 7, pp. 1087--1092, 2022. doi: 10.1109/LCSYS.2022.3230770.
+1. J. Hou\*, **S. Liu**\*, X. Yin, and M. Zamani. [Abstraction-based verification of approximate pre-opacity for control systems](https://ieeexplore.ieee.org/document/9993745?source=authoralert). _IEEE Control Systems Letters_, vol. 7, pp. 1087--1092, 2022. doi: 10.1109/LCSYS.2022.3230770. (\*contributed equally)
 2. **S. Liu**, A. Trivedi, X. Yin, and M. Zamani. [Secure-by-construction synthesis of cyber-physical systems](https://www.sciencedirect.com/science/article/pii/S1367578822000104). _Annual Reviews in Control_, vol. 53, pp. 30--50, 2022. doi: 10.1016/j.arcontrol.2022.03.004.
 3. **S. Liu**, N. Noroozi, and M. Zamani. [Symbolic models for infinite networks of control systems: A compositional approach](https://www.sciencedirect.com/science/article/pii/S1751570X2100087X?dgcid=author). _Nonlinear Analysis: Hybrid Systems_, vol. 43, December 2021. doi: 10.1016/j.nahs.2021.101097.
 4. S. Tasdighi Kalat, **S. Liu**, and M. Zamani. [Modular verification of opacity for interconnected control systems via barrier certificates](https://ieeexplore.ieee.org/document/9447831). _IEEE Control Systems Letters_, vol. 6, pp. 890--895, 2022. doi: 10.1109/LCSYS.2021.3087103.
