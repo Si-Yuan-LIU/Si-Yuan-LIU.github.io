@@ -40,7 +40,7 @@ author_profile: true
 
 1. B. Zhong, **S. Liu**, M. Caccamo, and M. Zamani. Towards trustworthy AI: Sandboxing AI-based unverified controllers for safe and secure cyber-physical systems", _the 62nd IEEE Conference on Decision and Control (CDC)_, to appear. 2023. 
 2. J. Hou, **S. Liu**, X. Yin, and M. Zamani. Abstraction-based synthesis of controllers for approximate opacity, _the 62nd IEEE Conference on Decision and Control (CDC)_, to appear. 2023.
-3  B. Zhong, **S. Liu**, M. Caccamo, and M. Zamani. [Secure-by-Construction Controller Synthesis via Control Barrier Functions](https://www.sciencedirect.com/science/article/pii/S2405896323019833). _22nd IFAC World Congress_, 56(2), 239-245, July 2023.
+3  B. Zhong, **S. Liu**, M. Caccamo, and M. Zamani. [Secure-by-Construction Controller Synthesis via Control Barrier Functions](https://www.sciencedirect.com/science/article/pii/S2405896323019833). _22nd IFAC World Congress_, 56(2), 239-245, July 2023.
 4. **S. Liu**, A. Saoud, P. Jagtap, D. V. Dimarogonas, and M. Zamani. [Compositional synthesis of signal temporal logic tasks via assume-guarantee contracts](https://ieeexplore.ieee.org/abstract/document/9992715). _61st IEEE Conference on Decision and Control (CDC)_, pp. 2184--2189, December 2022.
 5. S. Tasdighi Kalat, **S. Liu**, and M. Zamani. [Verification of approximate infinite-step opacity using barrier certificates](https://ieeexplore.ieee.org/document/9838153). _European Control Conference (ECC)_, pp. 175--180, July 2022.
 6. **S. Liu**, A. Swikir, and M. Zamani. [Compositional verification of initial-state opacity for switched systems](https://ieeexplore.ieee.org/document/9304322). _59th IEEE Conference on Decision and Control (CDC)_, pp. 2146--2151, December 2020.
