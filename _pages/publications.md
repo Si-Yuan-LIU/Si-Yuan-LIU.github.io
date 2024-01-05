@@ -18,8 +18,9 @@ author_profile: true
 
 ## Preprint
 
-1. **S. Liu**, A. Saoud, and D. V. Dimarogonas, [Controller synthesis of collaborative signal temporal logic tasks for multi-agent systems via assume-guarantee contracts](https://arxiv.org/abs/2309.13499), arXiv:2309.13499, 2023.
-2. B. Zhong, **S. Liu**,  M. Caccamo, and  M. Zamani, [Secure-by-construction synthesis for control systems](https://arxiv.org/abs/2307.02564), arXiv:2307.02564, 2023.
+1. **S. Liu**, X. Yin, D. V. Dimarogonas, and M. Zamani, [On approximate opacity of stochastic control systems](https://arxiv.org/abs/2401.01972), arXiv:2401.01972, 2024.
+2. **S. Liu**, A. Saoud, and D. V. Dimarogonas, [Controller synthesis of collaborative signal temporal logic tasks for multi-agent systems via assume-guarantee contracts](https://arxiv.org/abs/2309.13499), arXiv:2309.13499, 2023.
+3. B. Zhong, **S. Liu**,  M. Caccamo, and  M. Zamani, [Secure-by-construction synthesis for control systems](https://arxiv.org/abs/2307.02564), arXiv:2307.02564, 2023.
 
 ## Journal Papers
 
