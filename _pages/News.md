@@ -15,6 +15,10 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+* **December 2024**: I am awarded the Wallenberg-NTU Presidential Postdoctoral Fellowship (5/~1k applicants per year).
+* **December 2024**: I gave a guest lecture for the graduate course _Multi-Agent Systems_ at Osaka Metropolitan University.
+* **June 2024**: Check out our ECC24 workshop on [Task and Motion Coordination under Geometric, Dynamic and Temporal Constraints (TMC+X)](https://tmc-x.github.io/). 
+* **April 2024**: I received the Digital Futures Best Poster Presentation Award during the Digital Futures Open Research Days event. 
 * **December 2022**: I gave a guest lecture for the graduate course _Control Principles for Engineered Systems_ at Eindhoven University of Technology (TU/e).
 * **October 2022**: I will be joining the Division of Decision and Control Systems at KTH Royal Institute of Technology as a Postdoc Researcher in January 2023.
 * **September 2022**: I successfully defended my PhD.
