@@ -20,11 +20,11 @@ author_profile: true
 * Lecturer, Autumn 2024, FEL3230: [Hybrid systems](https://people.kth.se/~dimos/FEL3230_HT24.htm), graduate course at KTH, Sweden 
 * Lecturer, Spring 2024, EL2450: [Hybrid and embedded control systems](https://www.kth.se/student/kurser/kurs/EL2450?l=en), graduate course at KTH, Sweden  
 * Lecturer, Spring 2023, EL2450: [Hybrid and embedded control systems](https://www.kth.se/student/kurser/kurs/EL2450?l=en), graduate course at KTH, Sweden  
-* Guest Lecturer, December 2024: [Multi Agent Systems], graduate course at Osaka Metropolitan University, Japan
+* Guest Lecturer, December 2024: Multi Agent Systems, graduate course at Osaka Metropolitan University, Japan
 * Guest Lecturer, December 2022, 5SMC0: [Control Principles for Engineered Systems](https://research.tue.nl/en/courses/control-principles-for-engineered-systems), graduate course at Eindhoven University of Technology (TU/e), the Netherlands
 
 ## Workshop Organizing
-* Organizer of a workshop on “Task and Motion Coordination under Geometric, Dynamic and Temporal Constraints (TMC+X)” at the 22nd European Control Conference (ECC 2024)
+* Organizer of a workshop on [Task and Motion Coordination under Geometric, Dynamic and Temporal Constraints (TMC+X)](https://tmc-x.github.io/) at the 22nd European Control Conference (ECC 2024)
 
 
 ## Journal Reviewer
