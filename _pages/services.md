@@ -32,7 +32,7 @@ author_profile: true
 * IEEE Transactions on Automatic Control (TAC)
 * Automatica
 * IEEE Transactions on Robotics (TRO)
-* The IEEE Robotics and Automation Letters (RAL)
+* IEEE Robotics and Automation Letters (RAL)
 * Nonlinear Analysis: Hybrid Systems (NAHS) 
 * IEEE Transactions on Control of Network Systems (TCNS) 
 * ACM Transactions on Embedded Computing Systems (TECS) 
