@@ -17,6 +17,7 @@ author_profile: true
 {% endfor %}
 
 ## Teaching
+* Lecturer, Spring 2025, EL2450: [Hybrid and embedded control systems](https://www.kth.se/student/kurser/kurs/EL2450?l=en), graduate course at KTH, Sweden 
 * Lecturer, Autumn 2024, FEL3230: [Hybrid systems](https://people.kth.se/~dimos/FEL3230_HT24.htm), graduate course at KTH, Sweden 
 * Lecturer, Spring 2024, EL2450: [Hybrid and embedded control systems](https://www.kth.se/student/kurser/kurs/EL2450?l=en), graduate course at KTH, Sweden  
 * Lecturer, Spring 2023, EL2450: [Hybrid and embedded control systems](https://www.kth.se/student/kurser/kurs/EL2450?l=en), graduate course at KTH, Sweden  
