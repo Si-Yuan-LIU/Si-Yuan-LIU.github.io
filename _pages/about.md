@@ -15,10 +15,11 @@ Research Interest
 ======
 * Compositional synthesis and verification of large-scale systems 
 * Formal methods
+* Multi-agent systems
 * Safety and security in cyber-physical systems
 * Nonlinear control systems
 * Stochastic systems
-* Multi-agent systems
+
 
 Contact
 ======
