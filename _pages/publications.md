@@ -23,7 +23,8 @@ author_profile: true
 
 
 ## Journal Papers
-1. B. Zhong, **<u>S. Liu</u>**,  M. Caccamo, and  M. Zamani. [Secure-by-construction synthesis for control systems](https://arxiv.org/abs/2307.02564).  _IEEE Transactions on Automatic Control_, to appear, 2025.
+{% 1. B. Zhong, **<u>S. Liu</u>**,  M. Caccamo, and  M. Zamani. [Secure-by-construction synthesis for control systems](https://ieeexplore.ieee.org/document/10849614).  _IEEE Transactions on Automatic Control_, to appear, 2025.%}
+1. B. Zhong, **S. Liu**,  M. Caccamo, and  M. Zamani. [Secure-by-construction synthesis for control systems](https://ieeexplore.ieee.org/document/10849614).  _IEEE Transactions on Automatic Control_, to appear, 2025.
 2. **S. Liu**, X. Yin, D. V. Dimarogonas, and M. Zamani. [On approximate opacity of stochastic control systems](https://ieeexplore.ieee.org/document/10795160). _IEEE Transactions on Automatic Control_, to appear, 2024.
 3. J. Hou\*, **S. Liu**\*, X. Yin, and M. Zamani. [Abstraction-based verification of approximate pre-opacity for control systems](https://ieeexplore.ieee.org/document/9993745?source=authoralert). _IEEE Control Systems Letters_, vol. 7, pp. 1087--1092, 2022. doi: 10.1109/LCSYS.2022.3230770. (\*contributed equally)
 4. **S. Liu**, A. Trivedi, X. Yin, and M. Zamani. [Secure-by-construction synthesis of cyber-physical systems](https://www.sciencedirect.com/science/article/pii/S1367578822000104). _Annual Reviews in Control_, vol. 53, pp. 30--50, 2022. doi: 10.1016/j.arcontrol.2022.03.004.
