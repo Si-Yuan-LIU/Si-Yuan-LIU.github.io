@@ -58,5 +58,3 @@ author_profile: true
 * **S. Liu**, [Secure-by-Construction Synthesis of Cyber-Physical Systems](https://mediatum.ub.tum.de/?id=1651390), Ph.D. Dissertation, _Technical University of Munich (TUM)_, Germany, April 2022.
 
 
-
-; 1. B. Zhong, **<u>S. Liu</u>**,  M. Caccamo, and  M. Zamani. [Secure-by-construction synthesis for control systems](https://ieeexplore.ieee.org/document/10849614).  _IEEE Transactions on Automatic Control_, to appear, 2025. 
