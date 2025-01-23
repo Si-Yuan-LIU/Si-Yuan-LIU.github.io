@@ -59,4 +59,3 @@ author_profile: true
 
 
 
-{% 1. B. Zhong, **<u>S. Liu</u>**,  M. Caccamo, and  M. Zamani. [Secure-by-construction synthesis for control systems](https://ieeexplore.ieee.org/document/10849614).  _IEEE Transactions on Automatic Control_, to appear, 2025.%}
