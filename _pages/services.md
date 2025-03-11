@@ -49,6 +49,7 @@ author_profile: true
 * IEEE Conference on Decision and Control (CDC) 
 * American Control Conference (ACC)
 * European Control Conference (ECC)
+* Robotics: Science and Systems (RSS) 
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 * IEEE Conference on Control Technology and Applications (CCTA)
 * IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)

@@ -23,7 +23,7 @@ author_profile: true
 
 
 ## Journal Papers
-1. **S. Liu**, A. Saoud, and D. V. Dimarogonas. [Controller synthesis of collaborative signal temporal logic tasks for multi-agent systems via assume-guarantee contracts](https://arxiv.org/abs/2309.13499). _IEEE Transactions on Automatic Control_, to appear, 2025.
+1. **S. Liu**, A. Saoud, and D. V. Dimarogonas. [Controller synthesis of collaborative signal temporal logic tasks for multi-agent systems via assume-guarantee contracts](https://ieeexplore.ieee.org/document/10918825). _IEEE Transactions on Automatic Control_, to appear, 2025.
 2. B. Zhong, **S. Liu**,  M. Caccamo, and  M. Zamani. [Secure-by-construction synthesis for control systems](https://ieeexplore.ieee.org/document/10849614). _IEEE Transactions on Automatic Control_, to appear, 2025.
 3. **S. Liu**, X. Yin, D. V. Dimarogonas, and M. Zamani. [On approximate opacity of stochastic control systems](https://ieeexplore.ieee.org/document/10795160). _IEEE Transactions on Automatic Control_, to appear, 2024.
 4. J. Hou\*, **S. Liu**\*, X. Yin, and M. Zamani. [Abstraction-based verification of approximate pre-opacity for control systems](https://ieeexplore.ieee.org/document/9993745?source=authoralert). _IEEE Control Systems Letters_, vol. 7, pp. 1087--1092, 2022. doi: 10.1109/LCSYS.2022.3230770. (\*contributed equally)
@@ -41,18 +41,19 @@ author_profile: true
 
 ## Conference Papers
 
-1. **S. Liu**, F. Chen, and D. V. Dimarogonas. Transient control of linear multi-agent systems with leader-follower configuration. _American Control Conference (ACC)_, to appear, July 2025.
-2. G. Marchesini, **S. Liu**, L. Lindemann, and D. V. Dimarogonas. Decentralized control of multi-agent systems under acyclic spatio-temporal task dependencies. _the 63rd IEEE Conference on Decision and Control (CDC)_, to appear, December 2024.
-3. G. Marchesini, **S. Liu**, L. Lindemann, and D. V. Dimarogonas. Communication-constrained STL task decomposition through convex optimization. _American Control Conference (ACC)_, to appear, July 2024.
-4. B. Zhong, **S. Liu**, M. Caccamo, and M. Zamani. Towards trustworthy AI: Sandboxing AI-based unverified controllers for safe and secure cyber-physical systems. _the 62nd IEEE Conference on Decision and Control (CDC)_, pp. 1833--1840, December 2023. 
-5. J. Hou, **S. Liu**, X. Yin, and M. Zamani. Abstraction-based synthesis of controllers for approximate opacity, _the 62nd IEEE Conference on Decision and Control (CDC)_, pp. 7930--7936, December 2023.
-6. B. Zhong, **S. Liu**, M. Caccamo, and M. Zamani. [Secure-by-Construction Controller Synthesis via Control Barrier Functions](https://www.sciencedirect.com/science/article/pii/S2405896323019833). _22nd IFAC World Congress_, 56(2), 239--245, July 2023.
-7. **S. Liu**, A. Saoud, P. Jagtap, D. V. Dimarogonas, and M. Zamani. [Compositional synthesis of signal temporal logic tasks via assume-guarantee contracts](https://ieeexplore.ieee.org/abstract/document/9992715). _61st IEEE Conference on Decision and Control (CDC)_, pp. 2184--2189, December 2022.
-8. S. Tasdighi Kalat, **S. Liu**, and M. Zamani. [Verification of approximate infinite-step opacity using barrier certificates](https://ieeexplore.ieee.org/document/9838153). _European Control Conference (ECC)_, pp. 175--180, July 2022.
-9. **S. Liu**, A. Swikir, and M. Zamani. [Compositional verification of initial-state opacity for switched systems](https://ieeexplore.ieee.org/document/9304322). _59th IEEE Conference on Decision and Control (CDC)_, pp. 2146--2151, December 2020.
-10. **S. Liu**, X. Yin, and M. Zamani. [On a notion of approximate opacity for discrete-time stochastic control systems](https://ieeexplore.ieee.org/document/9147235). _American Control Conference (ACC)_, pp. 5413--5418, July 2020.  
-11. **S. Liu** and M. Zamani. [Compositional synthesis of almost maximally permissible safety controllers](https://ieeexplore.ieee.org/document/8815361). _American Control Conference (ACC)_, pp. 1678--1683, July 2019.
-12. **S. Liu**, Z. Liang, et al. [Predictor-corrector guidance for entry with terminal altitude constraint](https://ieeexplore.ieee.org/document/7554222). _IEEE Chinese Control Conference (CCC)_, pp. 5557--5562, July 2016. 
+1. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. Communication-aware multi-agent systems control based on k-hop distributed observers. _European Control Conference (ECC)_, to appear, June 2025.
+2. **S. Liu**, F. Chen, and D. V. Dimarogonas. Transient control of linear multi-agent systems with leader-follower configuration. _American Control Conference (ACC)_, to appear, July 2025.
+3. G. Marchesini, **S. Liu**, L. Lindemann, and D. V. Dimarogonas. Decentralized control of multi-agent systems under acyclic spatio-temporal task dependencies. _the 63rd IEEE Conference on Decision and Control (CDC)_, to appear, December 2024.
+4. G. Marchesini, **S. Liu**, L. Lindemann, and D. V. Dimarogonas. Communication-constrained STL task decomposition through convex optimization. _American Control Conference (ACC)_, to appear, July 2024.
+5. B. Zhong, **S. Liu**, M. Caccamo, and M. Zamani. Towards trustworthy AI: Sandboxing AI-based unverified controllers for safe and secure cyber-physical systems. _the 62nd IEEE Conference on Decision and Control (CDC)_, pp. 1833--1840, December 2023. 
+6. J. Hou, **S. Liu**, X. Yin, and M. Zamani. Abstraction-based synthesis of controllers for approximate opacity, _the 62nd IEEE Conference on Decision and Control (CDC)_, pp. 7930--7936, December 2023.
+7. B. Zhong, **S. Liu**, M. Caccamo, and M. Zamani. [Secure-by-Construction Controller Synthesis via Control Barrier Functions](https://www.sciencedirect.com/science/article/pii/S2405896323019833). _22nd IFAC World Congress_, 56(2), 239--245, July 2023.
+8. **S. Liu**, A. Saoud, P. Jagtap, D. V. Dimarogonas, and M. Zamani. [Compositional synthesis of signal temporal logic tasks via assume-guarantee contracts](https://ieeexplore.ieee.org/abstract/document/9992715). _61st IEEE Conference on Decision and Control (CDC)_, pp. 2184--2189, December 2022.
+9. S. Tasdighi Kalat, **S. Liu**, and M. Zamani. [Verification of approximate infinite-step opacity using barrier certificates](https://ieeexplore.ieee.org/document/9838153). _European Control Conference (ECC)_, pp. 175--180, July 2022.
+10. **S. Liu**, A. Swikir, and M. Zamani. [Compositional verification of initial-state opacity for switched systems](https://ieeexplore.ieee.org/document/9304322). _59th IEEE Conference on Decision and Control (CDC)_, pp. 2146--2151, December 2020.
+11. **S. Liu**, X. Yin, and M. Zamani. [On a notion of approximate opacity for discrete-time stochastic control systems](https://ieeexplore.ieee.org/document/9147235). _American Control Conference (ACC)_, pp. 5413--5418, July 2020.  
+12. **S. Liu** and M. Zamani. [Compositional synthesis of almost maximally permissible safety controllers](https://ieeexplore.ieee.org/document/8815361). _American Control Conference (ACC)_, pp. 1678--1683, July 2019.
+13. **S. Liu**, Z. Liang, et al. [Predictor-corrector guidance for entry with terminal altitude constraint](https://ieeexplore.ieee.org/document/7554222). _IEEE Chinese Control Conference (CCC)_, pp. 5557--5562, July 2016. 
 
 
 ## Dissertations
