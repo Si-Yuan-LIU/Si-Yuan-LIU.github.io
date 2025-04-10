@@ -25,7 +25,7 @@ author_profile: true
 * Guest Lecturer, December 2022, 5SMC0: [Control Principles for Engineered Systems](https://research.tue.nl/en/courses/control-principles-for-engineered-systems), graduate course at Eindhoven University of Technology (TU/e), the Netherlands
 
 ## Workshop Organizing
-* Organizer of a workshop on [Certified Control Synthesis for Robotic Systems] at the 23rd European Control Conference (ECC 2025)
+* Organizer of a workshop on [Certified Control Synthesis for Robotic Systems](https://sites.google.com/view/ecc2025ws/home) at the 23rd European Control Conference (ECC 2025)
 * Organizer of a workshop on [Task and Motion Coordination under Geometric, Dynamic and Temporal Constraints (TMC+X)](https://tmc-x.github.io/) at the 22nd European Control Conference (ECC 2024)
 
 
@@ -53,6 +53,7 @@ author_profile: true
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 * IEEE Conference on Control Technology and Applications (CCTA)
 * IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)
+* Mediterranean Conference on Control and Automation (MED)
 * IEEE International Conference on Intelligent Transportation Systems (ITSC)
 * IEEE Chinese Control Conference (CCC)
 

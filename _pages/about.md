@@ -14,7 +14,7 @@ She received her Ph.D. degree (in Electrical and Computer Engineering, 2022) fro
 Research Interest
 ======
 * Compositional synthesis and verification of large-scale systems 
-* Formal methods
+* Formal methods in control
 * Multi-agent systems
 * Safety and security in cyber-physical systems
 * Nonlinear control systems

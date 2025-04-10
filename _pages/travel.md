@@ -8,6 +8,7 @@ author_profile: true
 
 | Dates    |          Event                  | Place    |  
 | -------- |  -------------------------------|----------|  
+| April 08-09, 2025 |  Drive Forward 2025| Automotive Campus Helmond/Brainport Eindhoven, Netherlands|
 | December 16-19, 2024 |  IEEE Conference on Decision and Control | Milan, Italy|
 | December 2-6, 2024 |  Research Visit at Osaka Metropolitan University| Osaka, Japan|
 | December 18-22, 2022 |  Research Visit at Eindhoven University of Technology| Eindhoven, Netherlands|
