@@ -18,9 +18,8 @@ author_profile: true
 
 ## Preprint
 
-1. G. Marchesini, **S. Liu**, L. Lindemann and D. V. Dimarogonas. [A Communication Consistent Approach to Signal Temporal Logic Task Decomposition in Multi-Agent Systems](https://arxiv.org/abs/2410.12563), arXiv:2410.12563, 2024.
-
-
+1. G. Marchesini, **S. Liu**, L. Lindemann and D. V. Dimarogonas. [Sampling-Based Planning Under STL Specifications: A Forward Invariance Approach](https://arxiv.org/abs/2506.10739), arXiv:2506.10739, 2025.
+2. G. Marchesini, **S. Liu**, L. Lindemann and D. V. Dimarogonas. [A Communication Consistent Approach to Signal Temporal Logic Task Decomposition in Multi-Agent Systems](https://arxiv.org/abs/2410.12563), arXiv:2410.12563, 2024.
 
 ## Journal Papers
 1. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas, [Multi-Agent Estimation and Control Based on a Novel k-hop Distributed Prescribed Performance Observer](https://ieeexplore.ieee.org/document/11018605). _IEEE Control Systems Letters_, to appear, 2025. 
