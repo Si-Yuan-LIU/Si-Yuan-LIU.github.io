@@ -26,7 +26,8 @@ PhD Opening
 We are seeking a highly motivated PhD student to join our research team for a project focused on developing novel methodologies for the formal analysis and control of multi-agent cyber-physical systems (CPS). The project integrates techniques from control theory, formal methods, and multi-agent planning to address key challenges in the design of intelligent autonomous systems operating in dynamic and uncertain environments.
 
 Applications are now open via the TU/e website:
-https://www.tue.nl/en/working-at-tue/vacancy-overview/phd-on-formal-analysis-and-control-of-multi-agent-cyber-physical-systems
+
+(https://www.tue.nl/en/working-at-tue/vacancy-overview/phd-on-formal-analysis-and-control-of-multi-agent-cyber-physical-systems)
 
 Contact
 ======
