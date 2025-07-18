@@ -8,6 +8,8 @@ author_profile: true
 
 | Dates    |          Event                  | Place    |  
 | -------- |  -------------------------------|----------|  
+| July 08-11, 2025 |  American Control Conference 2025| Denver, CO, USA|
+| June 24-27, 2025 |  European Control Conference 2025| Thessaloniki, Greece|
 | April 08-09, 2025 |  Drive Forward 2025| Automotive Campus Helmond/Brainport Eindhoven, Netherlands|
 | December 16-19, 2024 |  IEEE Conference on Decision and Control | Milan, Italy|
 | December 2-6, 2024 |  Research Visit at Osaka Metropolitan University| Osaka, Japan|
