@@ -17,6 +17,7 @@ author_profile: true
 {% endfor %}
 
 ## Teaching
+* Lecturer, Q2 2025/2026, 5SMC0/5ARD0: Control principles for engineered systems (5SMC0); Control principles for linear systems (5ARD0), graduate course at TU/e, Netherlands 
 * Lecturer, Spring 2025, EL2450: [Hybrid and embedded control systems](https://www.kth.se/student/kurser/kurs/EL2450?l=en), graduate course at KTH, Sweden 
 * Lecturer, Autumn 2024, FEL3230: [Hybrid systems](https://people.kth.se/~dimos/FEL3230_HT24.htm), graduate course at KTH, Sweden 
 * Lecturer, Spring 2024, EL2450: [Hybrid and embedded control systems](https://www.kth.se/student/kurser/kurs/EL2450?l=en), graduate course at KTH, Sweden  
