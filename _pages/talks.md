@@ -4,6 +4,7 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+* **June 2025**: Invited webinar speaker on "Formal methods for situational awareness in multi-agent systems" at European Innovation Council (EIC) "Awareness Inside Portfolio Webinar".
 * **December 2024**: Guest lecture on “Contract-based design of multi-agent systems under signal temporal logic tasks” as part of the graduate course “Multi-Agent Systems" at Osaka Metropolitan University.
 * **December 2023**: Online talk on “Distributed analysis and control of large scale cyper physical systems“ at the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen).
 * **September 2023**: “Distributed synthesis of STL for multi-agent systems via assume-guarantee contracts“, part of the Contract-Based Design Workshop at KTH Royal Institute of Technology.
