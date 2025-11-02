@@ -19,6 +19,7 @@ author_profile: true
 ## Preprint
 
 1. G. Marchesini, **S. Liu**, L. Lindemann and D. V. Dimarogonas. [Sampling-Based Planning Under STL Specifications: A Forward Invariance Approach](https://arxiv.org/abs/2506.10739), arXiv:2506.10739, 2025.
+2. R. Wang, **S. Liu**, Z. Sun, S. Haesaert. [Correct-by-Design Control Synthesis of Stochastic Multi-agent Systems: a RobustTensor-based Solution](https://si-yuan-liu.github.io/publications/ifac26.pdf)， 2025.
 
 
 ## Journal Papers
