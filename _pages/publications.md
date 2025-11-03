@@ -23,7 +23,7 @@ author_profile: true
 
 
 ## Journal Papers
-1. G. Marchesini, **S. Liu**, L. Lindemann and D. V. Dimarogonas. [A Communication Consistent Approach to Signal Temporal Logic Task Decomposition in Multi-Agent Systems](https://arxiv.org/abs/2410.12563). _IEEE Transactions on Automatic Control_, to appear, 2025.
+1. G. Marchesini, **S. Liu**, L. Lindemann and D. V. Dimarogonas. [A Communication Consistent Approach to Signal Temporal Logic Task Decomposition in Multi-Agent Systems](https://ieeexplore.ieee.org/document/11222720). _IEEE Transactions on Automatic Control_, to appear, 2025.
 2. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas, [Multi-Agent Estimation and Control Based on a Novel k-hop Distributed Prescribed Performance Observer](https://ieeexplore.ieee.org/document/11018605). _IEEE Control Systems Letters_, to appear, 2025. 
 3. **S. Liu**, A. Saoud, and D. V. Dimarogonas. [Controller synthesis of collaborative signal temporal logic tasks for multi-agent systems via assume-guarantee contracts](https://ieeexplore.ieee.org/document/10918825). _IEEE Transactions on Automatic Control_, to appear, 2025.
 4. B. Zhong, **S. Liu**,  M. Caccamo, and  M. Zamani. [Secure-by-construction synthesis for control systems](https://ieeexplore.ieee.org/document/10849614). _IEEE Transactions on Automatic Control_, vol. 70, no. 6, pp. 4170--4177, 2025.
