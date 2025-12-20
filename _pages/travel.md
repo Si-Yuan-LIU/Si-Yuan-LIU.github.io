@@ -8,6 +8,7 @@ author_profile: true
 
 | Dates    |          Event                  | Place    |  
 | -------- |  -------------------------------|----------|  
+| December 09-12, 2025 |  IEEE Conference on Decision and Control | Rio de Janeiro, Brazil|
 | July 08-11, 2025 |  American Control Conference 2025| Denver, CO, USA|
 | June 24-27, 2025 |  European Control Conference 2025| Thessaloniki, Greece|
 | April 08-09, 2025 |  Drive Forward 2025| Automotive Campus Helmond/Brainport Eindhoven, Netherlands|
