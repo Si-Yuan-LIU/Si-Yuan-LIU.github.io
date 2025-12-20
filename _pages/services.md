@@ -52,6 +52,7 @@ author_profile: true
 * American Control Conference (ACC)
 * European Control Conference (ECC)
 * Robotics: Science and Systems (RSS) 
+* IFAC World Congress (IFAC) 
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 * IEEE Conference on Control Technology and Applications (CCTA)
 * IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)
