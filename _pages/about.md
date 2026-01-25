@@ -11,7 +11,9 @@ redirect_from:
 Siyuan Liu is currently an Assistant Professor with the Control Systems (CS) group at [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/). 
 
 <p align="justify">
-Prior to this, she was a Wallenberg-NTU Presidential Postdoctoral Fellow (Forskare) at the [Division of Decision and Control Systems](https://www.kth.se/is/dcs/division-of-decision-and-control-systems-1.788078) at the KTH Royal Institute of Technology, Sweden, in 2025. From 2023 to 2024, she was a Digital Futures Postdoc Fellow at KTH. Before joining KTH, she was a research assistant in the [Hybrid Control Systems (HyConSys)](https://www.hyconsys.com/) Lab at Ludwig-Maximilian University of Munich, Germany. 
+Prior to this, she was a Wallenberg-NTU Presidential Postdoctoral Fellow (Forskare) at the [Division of Decision and Control Systems](https://www.kth.se/is/dcs/division-of-decision-and-control-systems-1.788078) at the KTH Royal Institute of Technology, Sweden, in 2025. From 2023 to 2024, she was a Digital Futures Postdoc Fellow at KTH. Before joining KTH, she was a research assistant in the [Hybrid Control Systems (HyConSys)](https://www.hyconsys.com/) 
+<a href="https://www.hyconsys.com/">Hybrid Control Systems (HyConSys)</a>
+Lab at Ludwig-Maximilian University of Munich, Germany. 
 </p>
 
 
