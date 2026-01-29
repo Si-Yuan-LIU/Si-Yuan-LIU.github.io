@@ -53,6 +53,7 @@ author_profile: true
 * American Control Conference (ACC)
 * European Control Conference (ECC)
 * Robotics: Science and Systems (RSS) 
+* Learning for Dynamical and Control Systems (L4DC)
 * IFAC World Congress (IFAC) 
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 * IEEE Conference on Control Technology and Applications (CCTA)
