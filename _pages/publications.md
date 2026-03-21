@@ -43,7 +43,7 @@ author_profile: true
 
 ## Conference Papers
 
-1. Tommaso Zaccherini, **S. Liu**, Dimos V. Dimarogonas. Robust Estimation and Control for Heterogeneous Multi-agent Systems Based on Decentralized k-hop Prescribed Performance Observers. _European Control Conference (ECC)_, to appear, July 2026.
+1. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. Robust Estimation and Control for Heterogeneous Multi-agent Systems Based on Decentralized k-hop Prescribed Performance Observers. _European Control Conference (ECC)_, to appear, July 2026.
 2. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. Communication-aware multi-agent systems control based on k-hop distributed observers. _European Control Conference (ECC)_, to appear, June 2025.
 3. **S. Liu**, F. Chen, and D. V. Dimarogonas. Transient control of linear multi-agent systems with leader-follower configuration. _American Control Conference (ACC)_, to appear, July 2025.
 4. G. Marchesini, **S. Liu**, L. Lindemann, and D. V. Dimarogonas. Decentralized control of multi-agent systems under acyclic spatio-temporal task dependencies. _the 63rd IEEE Conference on Decision and Control (CDC)_, to appear, December 2024.
