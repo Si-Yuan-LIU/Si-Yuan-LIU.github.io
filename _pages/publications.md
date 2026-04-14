@@ -23,9 +23,9 @@ author_profile: true
 
 
 ## Journal Papers
-1. G. Marchesini, **S. Liu**, L. Lindemann and D. V. Dimarogonas. [A Communication Consistent Approach to Signal Temporal Logic Task Decomposition in Multi-Agent Systems](https://ieeexplore.ieee.org/document/11222720). _IEEE Transactions on Automatic Control_, to appear, 2025.
-2. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas, [Multi-Agent Estimation and Control Based on a Novel k-hop Distributed Prescribed Performance Observer](https://ieeexplore.ieee.org/document/11018605). _IEEE Control Systems Letters_, to appear, 2025. 
-3. **S. Liu**, A. Saoud, and D. V. Dimarogonas. [Controller synthesis of collaborative signal temporal logic tasks for multi-agent systems via assume-guarantee contracts](https://ieeexplore.ieee.org/document/10918825). _IEEE Transactions on Automatic Control_, to appear, 2025.
+1. G. Marchesini, **S. Liu**, L. Lindemann and D. V. Dimarogonas. [A Communication Consistent Approach to Signal Temporal Logic Task Decomposition in Multi-Agent Systems](https://ieeexplore.ieee.org/document/11222720). _IEEE Transactions on Automatic Control_, vol. 71, no. 4, pp. 2359-2374, 2025.
+2. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas, [Multi-Agent Estimation and Control Based on a Novel k-hop Distributed Prescribed Performance Observer](https://ieeexplore.ieee.org/document/11018605). _IEEE Control Systems Letters_, vol. 9, pp. 841-846, 2025. 
+3. **S. Liu**, A. Saoud, and D. V. Dimarogonas. [Controller synthesis of collaborative signal temporal logic tasks for multi-agent systems via assume-guarantee contracts](https://ieeexplore.ieee.org/document/10918825). _IEEE Transactions on Automatic Control_, vol. 70, no. 9, pp. 5894-5909, 2025.
 4. B. Zhong, **S. Liu**,  M. Caccamo, and  M. Zamani. [Secure-by-construction synthesis for control systems](https://ieeexplore.ieee.org/document/10849614). _IEEE Transactions on Automatic Control_, vol. 70, no. 6, pp. 4170--4177, 2025.
 5. **S. Liu**, X. Yin, D. V. Dimarogonas, and M. Zamani. [On approximate opacity of stochastic control systems](https://ieeexplore.ieee.org/document/10795160). _IEEE Transactions on Automatic Control_, vol. 70, no. 6, pp. 3846-3861, 2024.
 6. J. Hou\*, **S. Liu**\*, X. Yin, and M. Zamani. [Abstraction-based verification of approximate pre-opacity for control systems](https://ieeexplore.ieee.org/document/9993745?source=authoralert). _IEEE Control Systems Letters_, vol. 7, pp. 1087--1092, 2022. doi: 10.1109/LCSYS.2022.3230770. (\*contributed equally)
