@@ -42,9 +42,9 @@ author_profile: true
 
 
 ## Conference Papers
-1. G. Mitsos, D. V. Dimarogonas, **S. Liu**. Security-Aware Planning and Control of Multi-Agent Systems with LTL Tasks. _in 23rd IFAC World Congress (IFAC)_, accepted, August 2026.
-2. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. Observer-based Control of Multi-agent Systems under STL Specifications. _in 23rd IFAC World Congress (IFAC)_, accepted, August 2026.
-3. R. Wang, **S. Liu**, Z. Sun, and S. Haesaert. Correct-by-Design Control Synthesis of Stochastic Multi-agent Systems: a Robust Tensor-based Solution. _in 23rd IFAC World Congress (IFAC)_, accepted, August 2026.
+1. G. Mitsos, D. V. Dimarogonas, **S. Liu**. Security-Aware Planning and Control of Multi-Agent Systems with LTL Tasks. _23rd IFAC World Congress (IFAC)_, accepted, August 2026.
+2. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. Observer-based Control of Multi-agent Systems under STL Specifications. _23rd IFAC World Congress (IFAC)_, accepted, August 2026.
+3. R. Wang, **S. Liu**, Z. Sun, and S. Haesaert. Correct-by-Design Control Synthesis of Stochastic Multi-agent Systems: a Robust Tensor-based Solution. _23rd IFAC World Congress (IFAC)_, accepted, August 2026.
 4. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. Robust Estimation and Control for Heterogeneous Multi-agent Systems Based on Decentralized k-hop Prescribed Performance Observers. _European Control Conference (ECC)_, to appear, July 2026.
 5. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. Communication-aware multi-agent systems control based on k-hop distributed observers. _European Control Conference (ECC)_, to appear, June 2025.
 6. **S. Liu**, F. Chen, and D. V. Dimarogonas. Transient control of linear multi-agent systems with leader-follower configuration. _American Control Conference (ACC)_, to appear, July 2025.
