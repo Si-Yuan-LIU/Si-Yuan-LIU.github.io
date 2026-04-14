@@ -8,7 +8,7 @@ author_profile: true
 
 | Dates    |          Event                  | Place    |  
 | -------- |  -------------------------------|----------|  
-| August 23-28, 2026 |  IFAC World Congress  | Reykjavík, Iceland|
+| August 23-28, 2026 |  IFAC World Congress  | Busan, Republic of Korea|
 | July 07-10, 2026 |  European Control Conference 2026| Reykjavík, Iceland|
 | December 09-12, 2025 |  IEEE Conference on Decision and Control | Rio de Janeiro, Brazil|
 | July 08-11, 2025 |  American Control Conference 2025| Denver, CO, USA|
