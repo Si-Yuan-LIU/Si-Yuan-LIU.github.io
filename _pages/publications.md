@@ -17,6 +17,7 @@ author_profile: true
 {% endfor %}
 
 ## Preprint
+1. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. [Control of Multi-agent Systems under STL Specifications based on Prescribed Performance Observers](https://arxiv.org/abs/2604.22315). 10.48550/arXiv.2604.22315, 2026.
 
 
 ## Journal Papers
