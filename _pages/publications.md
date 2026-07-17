@@ -24,7 +24,7 @@ author_profile: true
 1. G. Marchesini, **S. Liu**, L. Lindemann and D. V. Dimarogonas. [Sampling-Based Planning Under STL Specifications: A Forward Invariance Approach](https://arxiv.org/abs/2506.10739). _IEEE Transactions on Automatic Control_, to appear, 2026.
 2. R. Wang, **S. Liu**, Z. Sun, and S. Haesaert. [Correct-by-Design Control Synthesis of Stochastic Multi-agent Systems: a Robust Tensor-based Solution](https://arxiv.org/abs/2511.06873). _Nonlinear Analysis: Hybrid Systems_ (to be presented at the _23rd IFAC World Congress (IFAC)_), to appear, 2026.
 3. G. Marchesini, **S. Liu**, L. Lindemann and D. V. Dimarogonas. [A Communication Consistent Approach to Signal Temporal Logic Task Decomposition in Multi-Agent Systems](https://ieeexplore.ieee.org/document/11222720). _IEEE Transactions on Automatic Control_, vol. 71, no. 4, pp. 2359-2374, 2025.
-4. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas, [Multi-Agent Estimation and Control Based on a Novel k-hop Distributed Prescribed Performance Observer](https://ieeexplore.ieee.org/document/11018605). _IEEE Control Systems Letters_, vol. 9, pp. 841-846, 2025. 
+4. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas, [Multi-Agent Estimation and Control Based on a Novel k-hop Distributed Prescribed Performance Observer](https://ieeexplore.ieee.org/document/11018605). _IEEE Control Systems Letters_ (presented at the _64th IEEE Conference on Decision and Control (CDC)_), vol. 9, pp. 841-846, 2025. 
 5. **S. Liu**, A. Saoud, and D. V. Dimarogonas. [Controller synthesis of collaborative signal temporal logic tasks for multi-agent systems via assume-guarantee contracts](https://ieeexplore.ieee.org/document/10918825). _IEEE Transactions on Automatic Control_, vol. 70, no. 9, pp. 5894-5909, 2025.
 6. B. Zhong, **S. Liu**,  M. Caccamo, and  M. Zamani. [Secure-by-construction synthesis for control systems](https://ieeexplore.ieee.org/document/10849614). _IEEE Transactions on Automatic Control_, vol. 70, no. 6, pp. 4170--4177, 2025.
 7. **S. Liu**, X. Yin, D. V. Dimarogonas, and M. Zamani. [On approximate opacity of stochastic control systems](https://ieeexplore.ieee.org/document/10795160). _IEEE Transactions on Automatic Control_, vol. 70, no. 6, pp. 3846-3861, 2024.
@@ -42,8 +42,8 @@ author_profile: true
 
 
 ## Conference Papers
-1. R. Wang, **S. Liu**, Z. Sun, and S. Haesaert. Compressing Correct-by-Design Synthesis for Stochastic Homogeneous Multi-Agent Systems with Counting LTL. _the 64th IEEE Conference on Decision and Control (CDC)_, to appear, December 2026.
-2. G. Marchesini, B. Moro, **S. Liu**, L. Lindemann and D. V. Dimarogonas. A Reactive Redistribution Mechanism for STL Tasks in Multi-Agent Systems Under Time-Varying Communication. _the 64th IEEE Conference on Decision and Control (CDC)_, to appear, December 2026.
+1. R. Wang, **S. Liu**, Z. Sun, and S. Haesaert. Compressing Correct-by-Design Synthesis for Stochastic Homogeneous Multi-Agent Systems with Counting LTL. _the 65th IEEE Conference on Decision and Control (CDC)_, to appear, December 2026.
+2. G. Marchesini, B. Moro, **S. Liu**, L. Lindemann and D. V. Dimarogonas. A Reactive Redistribution Mechanism for STL Tasks in Multi-Agent Systems Under Time-Varying Communication. _the 65th IEEE Conference on Decision and Control (CDC)_, to appear, December 2026.
 3. G. Mitsos, D. V. Dimarogonas, **S. Liu**. Security-Aware Planning and Control of Multi-Agent Systems with LTL Tasks. _23rd IFAC World Congress (IFAC)_, accepted, August 2026.
 4. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. Observer-based Control of Multi-agent Systems under STL Specifications. _23rd IFAC World Congress (IFAC)_, accepted, August 2026.
 5. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. Robust Estimation and Control for Heterogeneous Multi-agent Systems Based on Decentralized k-hop Prescribed Performance Observers. _European Control Conference (ECC)_, to appear, July 2026.
