@@ -15,6 +15,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+* **July 2026**: I am awarded a Veni grant from the Dutch Research Council (NWO)!
 * **November 2025**: Georgios Mitsos started his PhD!
 * **July 2025**: I will be joining the Control Systems (CS) Group at Eindhoven University of Technology (TU/e) as an Assistant Professor, starting September 1st, 2025. 
 * **December 2024**: I am awarded the Wallenberg-NTU Presidential Postdoctoral Fellowship (5/~1k applicants per year).
