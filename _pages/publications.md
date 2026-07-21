@@ -42,7 +42,7 @@ author_profile: true
 
 
 ## Conference Papers
-1. X. Qiu, R. Wang, **S. Liu**, Z. Sun, and S. Haesaert. Compressing Correct-by-Design Synthesis for Stochastic Homogeneous Multi-Agent Systems with Counting LTL. _the 65th IEEE Conference on Decision and Control (CDC)_, to appear, December 2026.
+1. X. Qiu, R. Wang, **S. Liu**, and S. Haesaert. Compressing Correct-by-Design Synthesis for Stochastic Homogeneous Multi-Agent Systems with Counting LTL. _the 65th IEEE Conference on Decision and Control (CDC)_, to appear, December 2026.
 2. G. Marchesini, B. Moro, **S. Liu**, L. Lindemann and D. V. Dimarogonas. A Reactive Redistribution Mechanism for STL Tasks in Multi-Agent Systems Under Time-Varying Communication. _the 65th IEEE Conference on Decision and Control (CDC)_, to appear, December 2026.
 3. G. Mitsos, D. V. Dimarogonas, **S. Liu**. Security-Aware Planning and Control of Multi-Agent Systems with LTL Tasks. _23rd IFAC World Congress (IFAC)_, accepted, August 2026.
 4. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. Observer-based Control of Multi-agent Systems under STL Specifications. _23rd IFAC World Congress (IFAC)_, accepted, August 2026.
