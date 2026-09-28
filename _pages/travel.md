@@ -9,7 +9,9 @@ author_profile: true
 | Dates    |          Event                  | Place    |  
 | -------- |  -------------------------------|----------|  
 | December 15-18, 2026 |  IEEE Conference on Decision and Control | Honolulu, Hawaii, USA|
+| August 29-September 12, 2026 |  Research Visit at Nanyang Technological University  | Singapore|
 | August 23-28, 2026 |  IFAC World Congress  | Busan, Republic of Korea|
+| August 3-21, 2026 |  Research Visit at Hong Kong University of Science and Technology (Guangzhou)| Guangzhou, China|
 | July 07-10, 2026 |  European Control Conference| Reykjavík, Iceland|
 | December 09-12, 2025 |  IEEE Conference on Decision and Control | Rio de Janeiro, Brazil|
 | July 08-11, 2025 |  American Control Conference| Denver, CO, USA|
