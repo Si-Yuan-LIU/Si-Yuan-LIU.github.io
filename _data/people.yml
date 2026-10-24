@@ -1,0 +1,13 @@
+# Optional fields: image (site-relative path), website, role, description.
+- name: Georgios Mitsos
+  website: https://www.tue.nl/en/research/researchers/georgios-mitsos
+- name: Ruohan Wang
+  description: Co-supervised with Prof. Sofie Haesaert
+  website: https://www.tue.nl/en/research/researchers/ruohan-wang
+  image: /images/people/ruohan-wang.jpg
+  image_source: https://assets.w3.tue.nl/w/fileadmin/research_import/ba807e326a7fe809b312484a8ca6024e.jpg
+- name: Tommaso Zaccherini
+  description: Co-supervised with Prof. Dimos Dimarogonas
+  website: https://tmzack.github.io/website/
+  image: /images/people/tommaso-zaccherini.jpg
+  image_source: https://tmzack.github.io/website/images/tommaso.jpg

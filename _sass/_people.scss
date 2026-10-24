@@ -1,0 +1,50 @@
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2.5em 1.5em;
+  margin: 2em 0;
+}
+
+.people-member {
+  min-width: 0;
+  text-align: center;
+
+  &__photo,
+  &__placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    max-width: 100%;
+    margin: 0 auto 1.25em;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  &__placeholder {
+    background: #f0f1f2;
+    color: #b5bac0;
+    font-size: 3em;
+  }
+
+  &__name {
+    margin: 0 0 0.6em;
+    padding: 0;
+    border: 0;
+    font-size: 1.1em;
+  }
+
+  &__details {
+    min-height: 4em;
+    font-size: 0.85em;
+
+    p { margin: 0 0 0.5em; }
+  }
+}
+
+@media (max-width: 600px) {
+  .people-grid {
+    grid-template-columns: 1fr;
+  }
+}
