@@ -17,11 +17,12 @@ author_profile: true
 {% endfor %}
 
 ## Preprint
-1. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. [Control of Multi-agent Systems under STL Specifications based on Prescribed Performance Observers](https://arxiv.org/abs/2604.22315). arXiv.2604.22315, 2026.
+1. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. [Observer-Based Control for Multi-Agent Systems under Communication-Task Graph Mismatch and Directed Switching Topologies](https://arxiv.org/abs/2610.28094). arXiv.2610.28094, 2026.
+2. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. [Control of Multi-agent Systems under STL Specifications based on Prescribed Performance Observers](https://arxiv.org/abs/2604.22315). arXiv.2604.22315, 2026.
 
 
 ## Journal Papers
-1. G. Mitsos and **S. Liu**. [Control Synthesis for Security Hyperproperties via Control Barrier Functions](https://ieeexplore.ieee.org/document/11745873). _IEEE Control Systems Letters_, 2026. doi: 10.1109/LCSYS.2026.3746093.
+1. G. Mitsos and **S. Liu**. [Control Synthesis for Security Hyperproperties via Control Barrier Functions](https://ieeexplore.ieee.org/document/11745873). _IEEE Control Systems Letters_, to appear, 2026. doi: 10.1109/LCSYS.2026.3746093.
 2. G. Marchesini, **S. Liu**, L. Lindemann and D. V. Dimarogonas. [Sampling-Based Planning Under STL Specifications: A Forward Invariance Approach](https://arxiv.org/abs/2506.10739). _IEEE Transactions on Automatic Control_, to appear, 2026.
 3. R. Wang, **S. Liu**, Z. Sun, and S. Haesaert. [Correct-by-Design Control Synthesis of Stochastic Multi-agent Systems: a Robust Tensor-based Solution](https://arxiv.org/abs/2511.06873). _Nonlinear Analysis: Hybrid Systems_ (to be presented at the _23rd IFAC World Congress (IFAC)_), to appear, 2026.
 4. G. Marchesini, **S. Liu**, L. Lindemann and D. V. Dimarogonas. [A Communication Consistent Approach to Signal Temporal Logic Task Decomposition in Multi-Agent Systems](https://ieeexplore.ieee.org/document/11222720). _IEEE Transactions on Automatic Control_, vol. 71, no. 4, pp. 2359-2374, 2025.
