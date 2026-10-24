@@ -38,8 +38,8 @@ author_profile: true
 | --- | --- | --- | --- |
 | András Szabó | TU/e | — | 2026–2027 |
 | MSc. Vyshnav Sunil | TU/e | Prof. Siep Weiland and Jake Rap | 2026 |
-| MSc. Xinyuan Qiu | TU/e | Sofie | 2026 |
-| MSc. Benjamin Brandin | KTH | [Gregorio Marchesini](https://arxiv.org/search/eess?searchtype=author&query=Marchesini,+G) | 2024 |
+| MSc. Xinyuan Qiu | TU/e | Prof. Sofie Haesaert | 2026 |
+| MSc. Benjamin Brandin | KTH | Gregorio Marchesini | 2024 |
 | MSc. Georgios Mitsos | KTH | — | 2025 |
 | MSc. Zelin Yu | KTH | Scania | 2024 |
 
