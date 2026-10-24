@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %}
 
 ## Teaching
-* Lecturer, Q2 2025/2026, 5SMC0/5ARD0: Control principles for engineered systems (5SMC0); Control principles for linear systems (5ARD0), graduate course at TU/e, Netherlands 
+* Lecturer, Q2 2025/2026/2027, 5SMC0/5ARD0: Control principles for engineered systems (5SMC0); Control principles for linear systems (5ARD0), graduate course at TU/e, Netherlands 
 * Lecturer, Spring 2025, EL2450: [Hybrid and embedded control systems](https://www.kth.se/student/kurser/kurs/EL2450?l=en), graduate course at KTH, Sweden 
 * Lecturer, Autumn 2024, FEL3230: [Hybrid systems](https://people.kth.se/~dimos/FEL3230_HT24.htm), graduate course at KTH, Sweden 
 * Lecturer, Spring 2024, EL2450: [Hybrid and embedded control systems](https://www.kth.se/student/kurser/kurs/EL2450?l=en), graduate course at KTH, Sweden  
@@ -57,6 +57,7 @@ author_profile: true
 * Learning for Dynamical and Control Systems (L4DC)
 * IFAC World Congress (IFAC) 
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+* IEEE International Conference on Robotics and Automation (ICRA)
 * IEEE Conference on Control Technology and Applications (CCTA)
 * IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)
 * Mediterranean Conference on Control and Automation (MED)
