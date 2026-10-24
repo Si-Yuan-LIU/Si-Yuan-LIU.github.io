@@ -36,12 +36,12 @@ author_profile: true
 
 | Name | Affiliation | Co-supervised with | Year |
 | --- | --- | --- | --- |
-| Andras | TU/e | — | 2026–2027 |
-| Vyshnav | TU/e | Siep and Jake | 2026 |
-| Xinyuan | TU/e | Sofie | 2026 |
+| András Szabó | TU/e | — | 2026–2027 |
+| MSc. Vyshnav Sunil | TU/e | Siep and Jake | 2026 |
+| MSc. Xinyuan Qiu | TU/e | Sofie | 2026 |
 | MSc. Benjamin Brandin | KTH | — | 2024 |
 | MSc. Georgios Mitsos | KTH | — | 2025 |
-| MSc. Zelin Yu | KTH & Scania | — | 2024 |
+| MSc. Zelin Yu | KTH | Scania | 2024 |
 
 ## Bachelor Students
 
