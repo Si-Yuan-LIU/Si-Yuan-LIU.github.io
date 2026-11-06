@@ -36,17 +36,16 @@ author_profile: true
 
 | Name | Affiliation | Co-supervised with | Year |
 | --- | --- | --- | --- |
+| Karsten Steeghs | TU/e | — | 2026–2027 |
 | András Szabó | TU/e | — | 2026–2027 |
 | MSc. Vyshnav Sunil | TU/e | Prof. Siep Weiland and Jake Rap | 2026 |
 | MSc. Xinyuan Qiu | TU/e | Prof. Sofie Haesaert | 2026 |
 | MSc. Georgios Mitsos | KTH | — | 2025 |
 | MSc. Benjamin Brandin | KTH | Gregorio Marchesini | 2024 |
 | MSc. Zelin Yu | KTH | Scania | 2024 |
-{: .people-table }
 
 ## Bachelor Students
 
 | Name | Affiliation | Co-supervised with | Year |
 | --- | --- | --- | --- |
 | Mohammad Shouly | TU/e | Wefabricate | 2026 |
-{: .people-table }
