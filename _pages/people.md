@@ -42,9 +42,11 @@ author_profile: true
 | MSc. Georgios Mitsos | KTH | — | 2025 |
 | MSc. Benjamin Brandin | KTH | Gregorio Marchesini | 2024 |
 | MSc. Zelin Yu | KTH | Scania | 2024 |
+{: .people-table }
 
 ## Bachelor Students
 
 | Name | Affiliation | Co-supervised with | Year |
 | --- | --- | --- | --- |
 | Mohammad Shouly | TU/e | Wefabricate | 2026 |
+{: .people-table }
