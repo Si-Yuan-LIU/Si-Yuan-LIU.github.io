@@ -15,6 +15,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
 * **November 2026**: Majid Rahmanov started his PhD!
 * **July 2026**: I am awarded a [Veni grant](https://www.tue.nl/en/news-and-events/news-overview/16-07-2026-eindhovens-eleven-record-number-of-tue-researchers-awarded-veni-grants) from the Dutch Research Council (NWO)!
 * **November 2025**: Georgios Mitsos started his PhD!
