@@ -17,8 +17,9 @@ author_profile: true
 {% endfor %}
 
 ## Preprint
-1. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. [Observer-Based Control for Multi-Agent Systems under Communication-Task Graph Mismatch and Directed Switching Topologies](https://arxiv.org/abs/2610.28094). arXiv.2610.28094, 2026.
-2. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. [Control of Multi-agent Systems under STL Specifications based on Prescribed Performance Observers](https://arxiv.org/abs/2604.22315). arXiv.2604.22315, 2026.
+1. G. Mitsos, S. Haesaert, and **S. Liu**. [Control Barrier Functions for Counting Tasks in Multi-Agent Systems](https://arxiv.org/abs/2611.13067). arXiv.2611.13067, 2026.
+2. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. [Observer-Based Control for Multi-Agent Systems under Communication-Task Graph Mismatch and Directed Switching Topologies](https://arxiv.org/abs/2610.28094). arXiv.2610.28094, 2026.
+3. T. Zaccherini, **S. Liu**, and D. V. Dimarogonas. [Control of Multi-agent Systems under STL Specifications based on Prescribed Performance Observers](https://arxiv.org/abs/2604.22315). arXiv.2604.22315, 2026.
 
 
 ## Journal Papers
