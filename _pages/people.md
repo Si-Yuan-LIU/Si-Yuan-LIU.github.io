@@ -9,10 +9,10 @@ author_profile: true
 
 <div class="people-grid">
   {% for person in site.data.people %}
-  <article class="people-member{% if person.name == 'Georgios Mitsos' %} people-member--georgios{% endif %}">
+  <article class="people-member">
     <div class="people-member__avatar">
       {% if person.image %}
-      <img class="people-member__photo{% if person.name == 'Georgios Mitsos' %} people-member__photo--georgios{% endif %}" src="{{ person.image | relative_url }}" alt="{{ person.name | escape }}" width="{% if person.name == 'Georgios Mitsos' %}144{% else %}112{% endif %}" height="{% if person.name == 'Georgios Mitsos' %}144{% else %}112{% endif %}" loading="lazy">
+      <img class="people-member__photo{% if person.name == 'Georgios Mitsos' %} people-member__photo--georgios{% endif %}" src="{{ person.image | relative_url }}" alt="{{ person.name | escape }}" width="144" height="144" loading="lazy">
       {% else %}
       <div class="people-member__placeholder" aria-hidden="true">
         <i class="fas fa-user"></i>

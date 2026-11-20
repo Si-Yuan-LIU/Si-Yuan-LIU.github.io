@@ -21,27 +21,18 @@
 
 .people-member {
   display: grid;
-  grid-template-rows: 112px auto 1fr;
+  grid-template-rows: 144px auto 1fr;
   row-gap: 0.75em;
   min-width: 0;
   padding: 0 0.25em;
   text-align: center;
 
   &__avatar {
-    width: 112px;
-    height: 112px;
+    width: 144px;
+    height: 144px;
     margin: 0 auto;
     overflow: hidden;
     border-radius: 50%;
-  }
-
-  &--georgios {
-    grid-template-rows: 144px auto 1fr;
-
-    .people-member__avatar {
-      width: 144px;
-      height: 144px;
-    }
   }
 
   &__photo,
