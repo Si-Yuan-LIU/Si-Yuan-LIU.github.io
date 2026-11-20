@@ -35,6 +35,15 @@
     border-radius: 50%;
   }
 
+  &--georgios {
+    grid-template-rows: 144px auto 1fr;
+
+    .people-member__avatar {
+      width: 144px;
+      height: 144px;
+    }
+  }
+
   &__photo,
   &__placeholder {
     width: 100%;
@@ -49,8 +58,8 @@
   }
 
   &__photo--georgios {
-    transform: scale(1.3);
-    transform-origin: center 28%;
+    transform: scale(1.4);
+    transform-origin: center 27%;
   }
 
   &__placeholder {
