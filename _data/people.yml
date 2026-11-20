@@ -1,6 +1,7 @@
 # Optional fields: image (site-relative path), website, role, description.
 - name: Georgios Mitsos
   website: https://www.tue.nl/en/research/researchers/georgios-mitsos
+  image: /images/photo2.jpg
 - name: Ruohan Wang
   description: Co-supervised with Prof. Sofie Haesaert
   website: https://www.tue.nl/en/research/researchers/ruohan-wang
