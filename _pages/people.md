@@ -12,7 +12,7 @@ author_profile: true
   <article class="people-member">
     <div class="people-member__avatar">
       {% if person.image %}
-      <img class="people-member__photo" src="{{ person.image | relative_url }}" alt="{{ person.name | escape }}" width="112" height="112" loading="lazy">
+      <img class="people-member__photo{% if person.name == 'Georgios Mitsos' %} people-member__photo--georgios{% endif %}" src="{{ person.image | relative_url }}" alt="{{ person.name | escape }}" width="112" height="112" loading="lazy">
       {% else %}
       <div class="people-member__placeholder" aria-hidden="true">
         <i class="fas fa-user"></i>

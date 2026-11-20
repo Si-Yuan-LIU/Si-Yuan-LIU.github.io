@@ -48,6 +48,11 @@
     object-position: center 35%;
   }
 
+  &__photo--georgios {
+    transform: scale(1.3);
+    transform-origin: center 28%;
+  }
+
   &__placeholder {
     display: flex;
     align-items: center;
