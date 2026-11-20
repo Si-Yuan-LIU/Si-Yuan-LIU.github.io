@@ -53,6 +53,12 @@
     transform-origin: center 27%;
   }
 
+  &__photo--ruohan {
+    object-position: center top;
+    transform: scale(1.25);
+    transform-origin: center top;
+  }
+
   &__placeholder {
     display: flex;
     align-items: center;
